@@ -1,0 +1,8 @@
+nuclide, halflife, unit
+Co60, 5.27, y
+Cs137, 30, y
+N17, 4.173, s
+I131, 8.02, d
+Au198, 2.695, d
+Ni63, 100.1, y
+Al28, 2.245, m
